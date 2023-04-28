@@ -24,7 +24,7 @@ pkg install python3
 
 git clone https://github.com/Jokergazaa/Reveal-numbers-information
 
-cd phone-num-info
+cd Reveal-numbers-information
 
 chmod +x *
 
